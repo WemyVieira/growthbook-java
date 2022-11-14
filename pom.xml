@@ -3,7 +3,7 @@
 
   <groupId>com.cuscuzmachine</groupId>
   <artifactId>growthbook</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <packaging>jar</packaging>
 
@@ -81,7 +81,7 @@
         <url>https://github.com/WemyVieira/growthbook-java</url>
         <connection>scm:git:git@github.com/WemyVieira/growthbook-java.git</connection>
         <developerConnection>scm:git:git@github.com/WemyVieira/growthbook-java.git</developerConnection>
-        <tag>growthbook-1.0.0</tag>
+        <tag>growthbook-1.0</tag>
     </scm>
 
     <distributionManagement>
