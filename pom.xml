@@ -78,7 +78,7 @@
   </build>
 
     <scm>
-        <url>git@github.com:WemyVieira/growthbook-java.git</url>
+        <url>https://github.com/WemyVieira/growthbook-java</url>
         <connection>scm:git:git@github.com/WemyVieira/growthbook-java.git</connection>
         <developerConnection>scm:git:git@github.com/WemyVieira/growthbook-java.git</developerConnection>
         <tag>growthbook-1.0</tag>
