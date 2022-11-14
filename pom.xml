@@ -78,6 +78,13 @@
     </plugins>
   </build>
 
+    <scm>
+        <url>git@github.com/WemyVieira/growthbook-java.git</url>
+        <connection>scm:git:git@github.com/WemyVieira/growthbook-java.git</connection>
+        <developerConnection>scm:git:git@github.com/WemyVieira/growthbook-java.git</developerConnection>
+        <tag>${project.version}</tag>
+    </scm>
+
     <distributionManagement>
         <repository>
             <id>lello-releases</id>
